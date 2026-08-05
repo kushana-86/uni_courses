@@ -1,4 +1,4 @@
-from pathlib import Path
+﻿from pathlib import Path
 import json
 import textwrap
 
@@ -87,7 +87,7 @@ def main():
     chat_sections = [
         ("项目", "志摩凛 AI 便携陪伴 Agent"),
         ("本地演示", "E:/shima-rin-ai\nhttp://127.0.0.1:3000"),
-        ("输入样例", "我叫周星宇，我下周想去露营，帮我规划一次露营"),
+        ("输入样例", "我叫周同学，我下周想去露营，帮我规划一次露营"),
         ("Agent 返回", json.dumps(chat, ensure_ascii=False, indent=2)[:1500]),
         ("初始化能力", f"appName: {bootstrap.get('appName', '')}\nmodels: {len(models)} 个 Live2D/3D 模型配置\nskills: 露营规划、治愈陪伴、户外知识解答、时间/闹钟工具"),
     ]
@@ -98,7 +98,7 @@ def main():
         ("AI/信息分析 INF_A", "https://github.com/kushana-86/INF_A"),
         ("微信小程序 择域先知", "https://github.com/kushana-86/zyxz-tibet-job-helper-miniapp"),
         ("文明六决策系统", "https://github.com/kushana-86/civ6-city-decision-system"),
-        ("语义重排序实验", "本地目录：C:/Users/90513/Desktop/jiansuo/231001201_周星宇"),
+        ("语义重排序实验", "本地目录：C:/Users/90513/Desktop/jiansuo/XXXXXX_周同学"),
     ]
     draw_text_image("GitHub 项目链接与演示地址", link_sections, LINK_DIR / "github_links_and_demo_addresses.png")
 

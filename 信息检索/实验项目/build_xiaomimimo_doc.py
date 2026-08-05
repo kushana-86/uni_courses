@@ -1,4 +1,4 @@
-from pathlib import Path
+﻿from pathlib import Path
 
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
@@ -95,7 +95,7 @@ projects = [
     ),
     (
         "语义重排序实验",
-        "本地目录：jiansuo/231001201_周星宇",
+        "本地目录：jiansuo/XXXXXX_周同学",
         "可复现 RAG/知识库检索排序实验，自动输出指标、图表和 Word 论文。",
     ),
 ]
@@ -129,7 +129,7 @@ def build():
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    r = p.add_run("周星宇 | 重点项目：志摩凛 AI 便携陪伴 Agent")
+    r = p.add_run("周同学 | 重点项目：志摩凛 AI 便携陪伴 Agent")
     font_run(r, 10, False, (90, 90, 90))
 
     heading(doc, "04 表单粘贴版", 1)

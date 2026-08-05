@@ -1,4 +1,4 @@
-# GitHub 项目链接与演示地址
+﻿# GitHub 项目链接与演示地址
 
 ## 1. 志摩凛 AI 便携陪伴 Agent
 
@@ -31,6 +31,6 @@
 
 ## 5. 语义重排序/RAG 检索实验
 
-- 本地项目：`C:\Users\90513\Desktop\jiansuo\231001201_周星宇`
+- 本地项目：`C:\Users\90513\Desktop\jiansuo\XXXXXX_周同学`
 - 运行命令：`python reproduce_semantic_rerank.py`
 - 证明重点：TF-IDF 初召回、同义词归一、LSA 语义向量、余弦相似度重排序、指标图与 Word 报告自动生成。
