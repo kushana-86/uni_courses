@@ -1,0 +1,1057 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="https://www.cqksy.cn/ksyres/2024/2/27/2005349/img/logo.ico">
+    <title>重庆市教育考试院门户网站</title>
+    <link rel="stylesheet" href="https://www.cqksy.cn/ksyres/2024/2/27/2005349/css/index.css?v=1.34">
+    <!-- <link rel="stylesheet" href="https://www.cqksy.cn/ksyres/2024/2/27/2005349/css/swiper-bundle.min.css"> -->
+    <link rel="stylesheet" href="https://www.cqksy.cn/ksyres/2024/2/27/2005349/css/idangerous.swiper.css">
+    <link rel="stylesheet" href="https://www.cqksy.cn/ksyres/2024/2/27/2005349/css/swiper.css?v=1.12">
+
+<!-- 华龙芯统计Buried point column  开始 -->
+  
+        <META name="clientId" content="1" />
+    <META name="catalogsId" content="1846540" />
+    <META name="businessId" content="1846540" />
+    <META name="title" content="考试院" />
+    <META name="businessType" content="COLUMN" />
+
+    
+    <script type="text/javascript" src="https://res.cqnews.net/public/hlx-buried-point.js?v=1"></script>
+
+<!-- 华龙芯统计Buried point column  结束 -->
+<script type="text/javascript">
+    try {
+        if ((navigator.userAgent.match(/(iPhone|iPod|Android|ios|iPad)/i)) ) {
+            //pc跳h5
+            window.location = "https://www.cqksy.cn/h5/column/index.html"
+        }
+    } catch (err) {
+    }
+  </script>
+</head>
+<body>
+
+
+<!-- <div id="special-enter" style="display: none;">
+    <div class="special-logo">
+        <img src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/img/special_logo.png" alt="" srcset="">
+    </div>
+    <div class="special-btn">
+        
+                        <a class="special-btn2" href="https://gkcj.cqksy.cn/user/login/1230" target="_self" rel="noopener noreferrer" style="display: inline-block; width: 588px; height: 233px;">
+                <div class="special-title">
+                    2026年普通高考综合查询
+                </div>
+                <div class="special-tip">点击进入</div>
+            </a>
+
+        <div class="special-btn1">
+            <div class="special-title">
+                网站首页
+            </div>
+            <div class="special-tip">点击进入</div>
+        </div>
+    </div>
+</div> -->
+
+<div id="normal-page">    
+
+    <!-- 页面头部 -->
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="https://www.cqksy.cn/ksyres/2024/2/27/2005350/img/logo.ico">
+    <title>重庆市教育考试院</title>
+    <link rel="stylesheet" href="https://www.cqksy.cn/ksyres/2024/2/27/2005350/css/index.css">
+    <script type="text/javascript">
+        try {
+            if ((navigator.userAgent.match(/(iPhone|iPod|Android|ios|iPad)/i)) ) {
+                //pc跳h5
+                var _url = window.location.href
+
+                if ( _url.indexOf('/web/') > 0) {
+                    var _newurl = _url.replace(/\/web\//g, "/h5/")
+                    window.location = _newurl
+                }
+            }
+        } catch (err) {
+        }
+      </script>
+</head>
+<body>
+    <img src="https://www.cqksy.cn/ksyres/2024/2/27/2005350/img/head-banner.png" alt="" class="head-pic">
+    <div class="head-nav">
+        <div class="nav-box">
+            <div class="nav-l">
+                <a class="navItem" id="shouye" href="//www.cqksy.cn" navname="首页">首页</a>
+                <a class="navItem" href="//www.cqksy.cn/web/column/col1846554.html" navname="机构概况">机构概况</a>
+                <a class="navItem" href="//www.cqksy.cn/web/column/col1846541.html" navname="考试招生">考试招生</a>
+                <a class="navItem" href="//www.cqksy.cn/web/column/col1846673.html" navname="考试命题">考试命题</a>
+                <a class="navItem" href="//www.cqksy.cn/web/column/col1846665.html" navname="招考改革">招考改革</a>
+                <a class="navItem" href="//www.cqksy.cn/web/column/col1846655.html" navname="政策法规">政策法规</a>
+                <a class="navItem" href="//www.cqksy.cn/web/column/col1846671.html" navname="科研评价">科研评价</a>
+                <a class="navItem" href="//www.cqksy.cn/web/column/col1846659.html" navname="服务指南">服务指南</a>
+            </div>
+            <div class="nav-r">
+
+                <div class="search-box">
+                    <img src="https://www.cqksy.cn/ksyres/2024/2/27/2005350/img/search.png" alt="">
+                    <form action="//www.cqksy.cn/web/column/col1846658.html" class="kaoshiyuan_search" method="get" target="_blank" autocomplete="off">
+                        <input type="text" class="search-text" placeholder="请输入关键字" id="ipts" name="keyword">
+                        <button type="submit" class="sBtn" style="cursor: pointer;">搜索</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 浏览器版本过低弹窗 -->
+    <div class="tanchuang" id="tanchuang" style="display: none;">
+        <div class="error">
+            <img class="error-pic" src="https://www.cqksy.cn/ksyres/2024/2/27/2005350/img/error.png" alt="">
+            <p class="error-text">你正在使用的浏览器版本过低，将不能正常浏览和使用。</p>
+            <span class="close">弹窗将在10秒后关闭</span>
+        </div>
+        <div class="tiaozhuan">
+            <div class="ie liulanqi">
+                <img src="https://www.cqksy.cn/ksyres/2024/2/27/2005350/img/edge.jpg" alt="">
+                <a href="https://www.microsoft.com/zh-cn/edge/welcome?exp=e155&form=MT00A8" class="link" target="_blank">使用<span class="link-color">Edge</span>浏览器</a>
+            </div>
+            <div class="chrome liulanqi">
+                <img src="https://www.cqksy.cn/ksyres/2024/2/27/2005350/img/chrome.png" alt="">
+                <a href="https://www.google.cn/chrome/" class="link" target="_blank">使用<span class="link-color">Google Chrome</span>浏览器</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/js/jquery.min.js"></script>
+    <script src="https://www.cqksy.cn/ksyres/2024/2/27/2005350/js/nav.js"></script>
+    <script src="https://www.cqksy.cn/ksyres/2024/2/27/2005350/js/tanchuang.js"></script>
+    
+                    <script type="text/javascript">
+                document.querySelector('#shouye').href = 'https://www.cqksy.cn/web/column/col1846686.html'
+            </script>
+
+</body>
+</html>
+
+    <div class="adv wrapper">
+        <div class="tonglan">
+            
+                                <a href="https://www.cqksy.cn/uploadFile/infopub/2026/ptgk/zytb/enter.html" target="_blank">重庆市2026年普通高等学校招生网上志愿填报系统</a>
+                <a href="https://www.cqzk.com.cn/apps/zyfz/personal/login?redirect=/" target="_blank">重庆市2026年统一高考志愿填报辅助系统</a>
+                <a href="https://gkcj.cqksy.cn/user/login/1230" target="_blank">重庆市2026年普通高考综合查询</a>
+
+        </div>
+        <div class="erfen">
+            
+                                <a href="https://www.cqksy.cn/uploadFile/infopub/202510/2026bmrk.htm" target="_blank">重庆市普通高校招生2026年网上报名入口</a>
+                <a href="https://www.cqksy.cn/web/article/2025-02/21/content_6474.html" target="_blank">2027年拟在渝招生普通高校招生专业（类）选考科目说明及要求</a>
+
+
+        </div>
+    </div>
+
+    <div class="banner">
+        <div class="banner-content wrapper">
+            <div class="swiper mySwiperOne" style="height: 100%;"  id="zkyw" data-index="0">
+                <div class="bcl swiper-wrapper" >
+                    
+                                                <a href="https://www.cqksy.cn/web/article/2026-06/12/content_6996.html" style="height: 340px;" target="_blank" class="swiper-slide"><img src="https://www.cqksy.cn/url/20002/2026/6/12/7UUSp46mpGmagBVTK8xqLmJSAYbyZr7kurn.jpg"></a>
+
+                        <a href="https://www.cqksy.cn/web/article/2026-06/12/content_6995.html" style="height: 340px;" target="_blank" class="swiper-slide"><img src="https://www.cqksy.cn/url/20002/2026/6/12/I4mBHWEOTfP8seZ1M8fUQAtZsBYfbutvITw.png"></a>
+
+                        <a href="https://www.cqksy.cn/web/article/2026-03/25/content_6908.html" style="height: 340px;" target="_blank" class="swiper-slide"><img src="https://www.cqksy.cn/url/20002/2026/3/25/qcXhlQS6YfOqotCUt0ccfKyejcsDvJNWV7I.jpg"></a>
+
+                        <a href="https://www.cqksy.cn/web/article/2026-03/25/content_6907.html" style="height: 340px;" target="_blank" class="swiper-slide"><img src="https://www.cqksy.cn/url/20002/2026/3/25/vh1706Pa6pLu7ObBBu5LoCw8xbRkk2o72mj.jpg"></a>
+
+                        <a href="https://www.cqksy.cn/web/article/2025-09/30/content_6793.html" style="height: 340px;" target="_blank" class="swiper-slide"><img src="https://www.cqksy.cn/url/20002/2025/9/30/qGafUNOBUzFL5Faf9ZR09Yhsn0kC9ZnOUCY.png"></a>
+
+
+                </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+                <div class="pagination"></div>
+            </div>
+            <div class="swiper mySwiperTwo" id="qxdt" style="display: none;" data-index="1">
+                <div class="bcl swiper-wrapper">
+                    
+                                                <a href="https://www.cqksy.cn/web/article/2026-05/27/content_6987.html" target="_blank" class="swiper-slide"><img src="https://www.cqksy.cn/url/20002/2026/5/27/oWVGOT2V6EtqiKRH80BAT31z7s2qVj96Mu3.png"></a>
+                        <a href="https://www.cqksy.cn/web/article/2026-05/27/content_6986.html" target="_blank" class="swiper-slide"><img src="https://www.cqksy.cn/url/20002/2026/5/27/BvKc1EW9TzbBl4wB70pvufDEtG1Nv1CrYDr.png"></a>
+                        <a href="https://www.cqksy.cn/web/article/2026-05/21/content_6980.html" target="_blank" class="swiper-slide"><img src="https://www.cqksy.cn/url/20002/2026/5/21/lPIvvaVM0SCKXPwfsZkhf6jTr9CH6d1Ee67.jpg"></a>
+                        <a href="https://www.cqksy.cn/web/article/2026-04/16/content_6952.html" target="_blank" class="swiper-slide"><img src="https://www.cqksy.cn/url/20002/2026/4/16/4PtGA9TTzdRQElZaS3UiXmBBIckNVr2xlcn.png"></a>
+                        <a href="https://www.cqksy.cn/web/article/2026-04/15/content_6943.html" target="_blank" class="swiper-slide"><img src="https://www.cqksy.cn/url/20002/2026/4/15/G0IUCJAVf3sok0WZrc1vu55cy8pArXcTQsd.png"></a>
+                        <a href="https://www.cqksy.cn/web/article/2026-03/26/content_6911.html" target="_blank" class="swiper-slide"><img src="https://www.cqksy.cn/url/20002/2026/3/26/VugWrsfVwHCDwLo5XfFqVHNFXbmiQmqa43I.png"></a>
+
+                </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+            <div class="bcr">
+                <div class="bcr-title">
+                    <div class="zkyw banner-active banner-title" data-index="0">招考要闻<div class="active-line"></div></div>
+                    <div class="qxdt banner-title" data-index="1">区县动态<div class="active-line" style="display: none;"></div></div>
+                </div>
+                <div class="bcr-content newsMain">
+                    
+                                                <a href="https://www.cqksy.cn/web/article/2026-06/26/content_7006.html" class="content-item" target="_blank">
+                            <div class="yaowen">要闻</div>
+                            <div class="title">我市2026年高考志愿填报温馨提醒</div>
+                            <div class="time">2026-06-26</div>
+                        </a>
+                        <a href="https://www.cqksy.cn/uploadFile/infopub/2026/ptgk/yfd/fdb.htm" class="content-item" target="_blank">
+                            <div class="yaowen">要闻</div>
+                            <div class="title">重庆市2026年全国普通高校招生各类考生分数段表</div>
+                            <div class="time">2026-06-24</div>
+                        </a>
+                        <a href="https://www.cqksy.cn/web/article/2026-06/24/content_7003.html" class="content-item" target="_blank">
+                            <div class="yaowen">要闻</div>
+                            <div class="title">重庆市2026年普通高校招生录取最低控制分数线</div>
+                            <div class="time">2026-06-24</div>
+                        </a>
+                        <a href="https://www.cqksy.cn/web/article/2026-06/24/content_7001.html" class="content-item" target="_blank">
+                            <div class="yaowen">要闻</div>
+                            <div class="title">关于我市2026年普通高考成绩查询有关事宜的公告</div>
+                            <div class="time">2026-06-24</div>
+                        </a>
+                        <a href="https://www.cqksy.cn/web/article/2026-06/12/content_6996.html" class="content-item" target="_blank">
+                            <div class="yaowen">要闻</div>
+                            <div class="title">智慧招考 服务随行</div>
+                            <div class="time">2026-06-12</div>
+                        </a>
+
+                    <a href="//www.cqksy.cn/web/column/col1845729.html" class="content-more" target="_blank">查看更多></a>
+                </div>
+                <div class="bcr-content newsMain" style="display: none;">
+                    
+                                                <a href="https://www.cqksy.cn/web/article/2026-06/16/content_6999.html" class="content-item" target="_blank">
+                            <div class="yaowen">动态</div>
+                            <div class="title">筑牢安全防线   温情守护高考 ——忠县高质量完成2026年高考组考工作</div>
+                            <div class="time">2026-06-16</div>
+                        </a>
+                        <a href="https://www.cqksy.cn/web/article/2026-06/09/content_6992.html" class="content-item" target="_blank">
+                            <div class="yaowen">动态</div>
+                            <div class="title">精心做好组织保障工作  确保高考安全平稳顺利</div>
+                            <div class="time">2026-06-09</div>
+                        </a>
+                        <a href="https://www.cqksy.cn/web/article/2026-05/28/content_6988.html" class="content-item" target="_blank">
+                            <div class="yaowen">动态</div>
+                            <div class="title">聚力五维目标 牢组考根基 护考试平稳</div>
+                            <div class="time">2026-05-28</div>
+                        </a>
+                        <a href="https://www.cqksy.cn/web/article/2026-05/27/content_6987.html" class="content-item" target="_blank">
+                            <div class="yaowen">动态</div>
+                            <div class="title">涪陵区召开2026年高考安全保障工作专题会议</div>
+                            <div class="time">2026-05-27</div>
+                        </a>
+                        <a href="https://www.cqksy.cn/web/article/2026-05/27/content_6986.html" class="content-item" target="_blank">
+                            <div class="yaowen">动态</div>
+                            <div class="title">强化责任细化分工周密部署护航高考 ——梁平区召开2026年高考安全工作会</div>
+                            <div class="time">2026-05-27</div>
+                        </a>
+
+                    <a href="//www.cqksy.cn/web/column/col1845730.html" class="content-more" target="_blank">查看更多></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content wrapper">
+        <div class="title">
+            <ul class="title-nav">
+                <li class="title-item title-active" data-index="0">普通高考<div class="active-line"></div></li>
+                <li class="title-item" data-index="1">研究生考试<div class="active-line" style="display: none;"></div></li>
+                <li class="title-item" data-index="2">成人高考<div class="active-line" style="display: none;"></div></li>
+                <li class="title-item" data-index="3">自学考试<div class="active-line" style="display: none;"></div></li>
+                <li class="title-item" data-index="4">教师资格考试<div class="active-line" style="display: none;"></div></li>
+                <li class="title-item" data-index="5">社会考试<div class="active-line" style="display: none;"></div></li>
+                <li class="title-item" data-index="6">学业水平合格考<div class="active-line" style="display: none;"></div></li>
+                <li class="title-item" data-index="7">普招专升本考试<div class="active-line" style="display: none;"></div></li>
+            </ul>
+        </div>
+
+
+
+        <!-- 普通高考 -->
+        <div class="yjsks newsMain" style="display: none;">
+            
+                                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href=" https://www.cqksy.cn/web/column/col1846692.html" target="_blank">
+                        艺体招生考试专栏
+                    </a>
+                    <span class="time">2025-09-10</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2021-12/23/content_6794.html" target="_blank">
+                        2024年拟在渝招生普通高校招生专业（类）选考科目要求说明
+                    </a>
+                    <span class="time">2021-12-23</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-06/26/content_7006.html" target="_blank">
+                        我市2026年高考志愿填报温馨提醒
+                    </a>
+                    <span class="time">2026-06-26</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/uploadFile/infopub/2026/ptgk/yfd/fdb.htm" target="_blank">
+                        重庆市2026年全国普通高校招生各类考生分数段表
+                    </a>
+                    <span class="time">2026-06-24</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-06/24/content_7003.html" target="_blank">
+                        重庆市2026年普通高校招生录取最低控制分数线
+                    </a>
+                    <span class="time">2026-06-24</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-06/24/content_7001.html" target="_blank">
+                        关于我市2026年普通高考成绩查询有关事宜的公告
+                    </a>
+                    <span class="time">2026-06-24</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-06/09/content_6993.html" target="_blank">
+                        重庆市2026年普通高校招生统一考试考后主要时间节点安排
+                    </a>
+                    <span class="time">2026-06-09</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-06/04/content_6990.html" target="_blank">
+                        重庆市2026年高考温馨提醒
+                    </a>
+                    <span class="time">2026-06-04</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-06/02/content_6989.html" target="_blank">
+                        致2026年重庆高考考生及家长的一封信
+                    </a>
+                    <span class="time">2026-06-02</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/uploadFile/infopub/202604/2045788409142190080.pdf?fileName=2026GZfl-lqxxb_gzFLzkpDSC0419.pdf&fileSize=61984" target="_blank">
+                        重庆市2026年高职分类考试招生录取信息表-高职分类专科批第三次征集
+                    </a>
+                    <span class="time">2026-04-19</span>
+                </div>
+
+
+            <a href="//www.cqksy.cn/web/column/col1846541.html" target="_blank" class="more">查看更多></a>
+
+        </div>
+
+        <!-- 研究生考试 -->
+        <div class="ptgk newsMain" style="display: none;">
+            
+                                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-02/26/content_6887.html" target="_blank">
+                        重庆市2026年全国硕士研究生招生考试（初试）成绩公布须知
+                    </a>
+                    <span class="time">2026-02-26</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-12/12/content_6841.html" target="_blank">
+                        重庆市2026年全国硕士研究生招生考试温馨提醒
+                    </a>
+                    <span class="time">2025-12-12</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-09/30/content_6793.html" target="_blank">
+                        重庆市2026年全国硕士研究生招生考试报名公告
+                    </a>
+                    <span class="time">2025-09-30</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-02/17/content_6473.html" target="_blank">
+                        重庆市2025年硕士研究生招生考试初试成绩公布须知
+                    </a>
+                    <span class="time">2025-02-17</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-12/09/content_6452.html" target="_blank">
+                        重庆市2025年全国硕士研究生招生考试温馨提醒
+                    </a>
+                    <span class="time">2024-12-09</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-02/21/content_5987.html" target="_blank">
+                        重庆市2024年硕士研究生招生考试初试成绩公布须知
+                    </a>
+                    <span class="time">2024-02-21</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2023-12/16/content_5974.html" target="_blank">
+                        重庆市2024年全国硕士研究生招生考试温馨提示
+                    </a>
+                    <span class="time">2023-12-16</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2023-09/21/content_5949.html" target="_blank">
+                        重庆市2024年全国硕士研究生招生考试报名公告
+                    </a>
+                    <span class="time">2023-09-21</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2023-02/17/content_5756.html" target="_blank">
+                        重庆市2023年硕士研究生招生考试初试成绩公布须知
+                    </a>
+                    <span class="time">2023-02-17</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2023-01/12/content_5746.html" target="_blank">
+                        重庆市2023年全国硕士研究生招生考试统考科目评卷工作启动
+                    </a>
+                    <span class="time">2023-01-12</span>
+                </div>
+
+            <a href="//www.cqksy.cn/web/column/col1846644.html" target="_blank" class="more">查看更多></a>
+        </div>
+
+        <!-- 成人高考 -->
+        <div class="crgk newsMain" style="display: none;">
+            
+                                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-12/26/content_6854.html" target="_blank">
+                        重庆市2025年成人高校招生录取高起专批次征集志愿填报公告
+                    </a>
+                    <span class="time">2025-12-26</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-12/12/content_6842.html" target="_blank">
+                        重庆市2025年成人高校招生录取专升本、高起本批次第二次征集志愿填报公告
+                    </a>
+                    <span class="time">2025-12-12</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-12/10/content_6840.html" target="_blank">
+                        重庆市2025年成人高校招生录取 专升本、高起本批次第一次征集志愿填报公告
+                    </a>
+                    <span class="time">2025-12-10</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-11/12/content_6822.html" target="_blank">
+                        重庆市2025年各类成人高校招生录取最低控制分数线
+                    </a>
+                    <span class="time">2025-11-12</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-10/13/content_6796.html" target="_blank">
+                        重庆市2025年成人高考温馨提示
+                    </a>
+                    <span class="time">2025-10-13</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/uploadFile/infopub/202511/1994303858880815104.pdf?fileName=cqs_crgkzgzc_GS20250926-1.pdf&fileSize=2225857" target="_blank">
+                        重庆市2025年成人高考享受照顾政策人员及项目公示
+                    </a>
+                    <span class="time">2025-09-26</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/uploadFile/infopub/202509/1967427011731791872.pdf?fileName=2025CK-zsqd0915.pdf&fileSize=72929" target="_blank">
+                        2025年在渝招生成人高校招生简章链接清单
+                    </a>
+                    <span class="time">2025-09-15</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://ck.cqksy.cn/czPage/info_zszy_show" target="_blank">
+                        重庆市2025年成人高校招生专业目录
+                    </a>
+                    <span class="time">2025-09-03</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-09/02/content_6770.html" target="_blank">
+                        重庆市2025年全国成人高校招生统一考试报名公告
+                    </a>
+                    <span class="time">2025-09-02</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-12/18/content_6459.html" target="_blank">
+                        重庆市2024年成人高校招生录取高起专批次征集志愿填报公告
+                    </a>
+                    <span class="time">2024-12-18</span>
+                </div>
+
+
+            <a href="//www.cqksy.cn/web/column/col1846542.html" target="_blank" class="more">查看更多></a>
+        </div>
+
+        <!-- 自学考试 -->
+        <div class="zxks newsMain" style="display: none;">
+            
+                                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-05/27/content_6984.html" target="_blank">
+                        重庆市2026年上半年高等教育自学考试毕业申请办理有关事宜的公告
+                    </a>
+                    <span class="time">2026-05-27</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-03/31/content_6914.html" target="_blank">
+                        重庆市2026年上半年高等教育自学考试温馨提醒
+                    </a>
+                    <span class="time">2026-03-31</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-01/15/content_6868.html" target="_blank">
+                        重庆市2026年上半年高等教育自学考试报名报考须知
+                    </a>
+                    <span class="time">2026-01-15</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-11/04/content_6815.html" target="_blank">
+                        关于重庆市2025年下半年高等教育自学考试 毕业证书申请办理时间及流程的公告
+                    </a>
+                    <span class="time">2025-11-04</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-10/13/content_6797.html" target="_blank">
+                        关于参加重庆市2025年下半年高等教育自学考试的温馨提醒
+                    </a>
+                    <span class="time">2025-10-13</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-08/20/content_6758.html" target="_blank">
+                        重庆市2025年下半年高等教育自学考试报考须知
+                    </a>
+                    <span class="time">2025-08-20</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-05/20/content_6589.html" target="_blank">
+                        关于我市2025年上半年高等教育自学考试毕业证书办理时间及流程的公告
+                    </a>
+                    <span class="time">2025-05-20</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-02/26/content_6477.html" target="_blank">
+                        重庆市2025年上半年高等教育自学考试报名报考须知
+                    </a>
+                    <span class="time">2025-02-26</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-11/25/content_6435.html" target="_blank">
+                        重庆市2024年下半年高等教育自学考试毕业申报及审核办理须知
+                    </a>
+                    <span class="time">2024-11-25</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-10/21/content_6376.html" target="_blank">
+                        关于参加重庆市2024年下半年高等教育自学考试的温馨提醒
+                    </a>
+                    <span class="time">2024-10-21</span>
+                </div>
+
+
+            <a href="//www.cqksy.cn/web/column/col1846543.html" target="_blank" class="more">查看更多></a>
+        </div>
+
+        <!-- 教师资格考试 -->
+        <div class="jszgks newsMain" style="display: none;">
+            
+                                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2022-04/08/content_5501.html" target="_blank">
+                        中小学教师资格考试省级命题科目面试大纲
+                    </a>
+                    <span class="time">2022-04-08</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-06/25/content_7005.html" target="_blank">
+                        重庆市2026年下半年中小学教师资格考试（笔试）公告
+                    </a>
+                    <span class="time">2026-06-25</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-05/09/content_6977.html" target="_blank">
+                        重庆市2026年上半年中小学教师资格考试（面试）温馨提示
+                    </a>
+                    <span class="time">2026-05-09</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/uploadFile/infopub/202604/2041791190122635264.pdf?fileName=cqs_zxxjsMS_zymcjjcb0408.pdf&fileSize=277151" target="_blank">
+                        重庆市中小学教师资格考试(面试)中职专业名称与面试教材对应表
+                    </a>
+                    <span class="time">2026-04-08</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-03/31/content_6915.html" target="_blank">
+                        重庆市2026年上半年中小学教师资格考试（面试）公告
+                    </a>
+                    <span class="time">2026-03-31</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-02/26/content_6886.html" target="_blank">
+                        2026年上半年中小学教师资格考试 （笔试）温馨提示
+                    </a>
+                    <span class="time">2026-02-26</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-12/30/content_6858.html" target="_blank">
+                        重庆市2026年上半年中小学教师资格考试（笔试）公告
+                    </a>
+                    <span class="time">2025-12-30</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-12/01/content_6833.html" target="_blank">
+                        重庆市2025年下半年中小学教师资格考试 （面试）温馨提示
+                    </a>
+                    <span class="time">2025-12-01</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-10/29/content_6808.html" target="_blank">
+                        重庆市2025年下半年中小学教师资格考试（面试） 公 告
+                    </a>
+                    <span class="time">2025-10-29</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/uploadFile/infopub/202509/1964960554120912896.pdf?fileName=cqs-zxxms-zzzyjjc-dyb20250908.pdf&fileSize=519673" target="_blank">
+                        重庆市中小学教师资格考试(面试)中职专业名称与面试教材对应表
+                    </a>
+                    <span class="time">2025-09-08</span>
+                </div>
+
+
+            <a href="//www.cqksy.cn/web/column/col1846645.html" target="_blank" class="more">查看更多></a>
+        </div>
+
+        <!-- 社会考试 -->
+        <div class="shks newsMain" style="display: none;">
+            
+                                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-06/16/content_6998.html" target="_blank">
+                        重庆市2026年下半年全国计算机等级考试报名公告
+                    </a>
+                    <span class="time">2026-06-16</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-04/29/content_6973.html" target="_blank">
+                        重庆市2026年同等学力人员申请硕士学位外国语水平和学科综合水平全国统一考试温馨提示
+                    </a>
+                    <span class="time">2026-04-29</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-12/18/content_6851.html" target="_blank">
+                        重庆市2026年上半年全国计算机等级考试报名公告
+                    </a>
+                    <span class="time">2025-12-18</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-06/25/content_6647.html" target="_blank">
+                        重庆市2025年下半年全国计算机等级考试报名公告
+                    </a>
+                    <span class="time">2025-06-25</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-12/25/content_6462.html" target="_blank">
+                        重庆市2025年上半年全国计算机等级考试报名公告
+                    </a>
+                    <span class="time">2024-12-25</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-06/21/content_6190.html" target="_blank">
+                        重庆市2024年9月全国计算机等级考试 报名公告
+                    </a>
+                    <span class="time">2024-06-21</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-05/16/content_6107.html" target="_blank">
+                        重庆市2024年同等学力人员申请硕士学位外国语水平和学科综合水平全国统一考试温馨提示
+                    </a>
+                    <span class="time">2024-05-16</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-04/22/content_6046.html" target="_blank">
+                        重庆市2024年5月全国计算机等级考试报名公告
+                    </a>
+                    <span class="time">2024-04-22</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-04/02/content_6008.html" target="_blank">
+                        重庆市2024年上半年中小学教师资格考试（面试）公告
+                    </a>
+                    <span class="time">2024-04-02</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-03/20/content_6005.html" target="_blank">
+                        重庆市全国计算机等级考试研讨会召开
+                    </a>
+                    <span class="time">2024-03-20</span>
+                </div>
+
+
+            <a href="//www.cqksy.cn/web/column/col1846705.html" target="_blank" class="more">查看更多></a>
+        </div>
+
+        <!-- 学业水平合格考 -->
+        <div class="xysphgk newsMain" style="display: none;">
+            
+                                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-03/23/content_6902.html" target="_blank">
+                        2025-2026学年度第二学期普通高中学业水平合格性考试及报名有关安排的公告
+                    </a>
+                    <span class="time">2026-03-23</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-09/15/content_6779.html" target="_blank">
+                        2025-2026学年度第一学期普通高中学业水平合格性考试及报名有关安排的公告
+                    </a>
+                    <span class="time">2025-09-15</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2025-04/03/content_6555.html" target="_blank">
+                        关于2024-2025学年度第二学期普通高中学业水平合格性考试有关事项的公告
+                    </a>
+                    <span class="time">2025-04-03</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/uploadFile/infopub/2024/xk/cqspg-sxzzSJjg1104.pdf" target="_blank">
+                         重庆市普通高中学业水平合格性考试思想政治试卷结构2024年修订版
+                    </a>
+                    <span class="time">2024-11-04</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2024-03/29/content_6007.html" target="_blank">
+                        2023-2024学年度第二学期普通高中学业水平合格性考试及报名有关安排的公告
+                    </a>
+                    <span class="time">2024-03-29</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2023-11/28/content_5971.html" target="_blank">
+                        重庆市普通高中学业水平选择性考试试卷结构（2024年版）
+                    </a>
+                    <span class="time">2023-11-28</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2023-09/27/content_5950.html" target="_blank">
+                        重庆市2023-2024学年度第一学期普通高中学业水平合格性考试时间及科目安排的通知
+                    </a>
+                    <span class="time">2023-09-27</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2023-09/06/content_5947.html" target="_blank">
+                        重庆市普通高中学业水平合格性考试物理信息技术试卷结构2023年修订版
+                    </a>
+                    <span class="time">2023-09-06</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2023-04/13/content_5813.html" target="_blank">
+                        2022—2023学年度第二学期普通高中学业水平合格性考试时间及科目安排
+                    </a>
+                    <span class="time">2023-04-13</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2023-03/17/content_5787.html" target="_blank">
+                        重庆市2023年2月高中学业水平合格性考试成绩查询公告
+                    </a>
+                    <span class="time">2023-03-17</span>
+                </div>
+
+
+            <a href="//www.cqksy.cn/web/column/col1846646.html" target="_blank" class="more">查看更多></a>
+        </div>
+
+        <!-- 普招专升本考试 -->
+        <div class="pzzsbks newsMain" style="display: none;">
+            
+                                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-04/30/content_6975.html" target="_blank">
+                        重庆市2026年普通高校专升本考试一分段表
+                    </a>
+                    <span class="time">2026-04-30</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-04/30/content_6974.html" target="_blank">
+                        2026年重庆市普通高校专升本志愿填报时间和流程公告
+                    </a>
+                    <span class="time">2026-04-30</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-04/10/content_6926.html" target="_blank">
+                        重庆市2026年普通高校专升本统一考试成绩查询温馨提醒
+                    </a>
+                    <span class="time">2026-04-10</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-04/09/content_6925.html" target="_blank">
+                        2026年重庆市普通高校专升本退役大学生士兵补报名及志愿填报公告
+                    </a>
+                    <span class="time">2026-04-09</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-04/09/content_6924.html" target="_blank">
+                        2026年重庆市普通高校专升本免试生志愿填报公告
+                    </a>
+                    <span class="time">2026-04-09</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/uploadFile/infopub/202603/2038440438113247232.pdf?fileName=2026gxZSB_msmd0330.pdf&fileSize=559884" target="_blank">
+                        2026年重庆市普通高校专升本免试招生技能竞赛获奖学生名单
+                    </a>
+                    <span class="time">2026-03-30</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-03/25/content_6908.html" target="_blank">
+                        重庆市2026年普通高校专升本考试工作会
+                    </a>
+                    <span class="time">2026-03-13</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-01/16/content_6871.html" target="_blank">
+                        2026年重庆市普通高校专升本统一考试报名公告
+                    </a>
+                    <span class="time">2026-01-16</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-01/09/content_6864.html" target="_blank">
+                        重庆市教育委员会 重庆市退役军人事务局关于印发2026年重庆市普通高校专升本免试招生工作实施方案的通知
+                    </a>
+                    <span class="time">2026-01-09</span>
+                </div>
+                <div class="cont-item">
+                    <span class="point"></span>
+                    <a href="https://www.cqksy.cn/web/article/2026-01/09/content_6863.html" target="_blank">
+                        重庆市教育委员会关于印发2026年重庆市普通高校专升本统一考试招生工作实施方案的通知
+                    </a>
+                    <span class="time">2026-01-09</span>
+                </div>
+
+
+            <a href="//www.cqksy.cn/web/column/col1846647.html" target="_blank" class="more">查看更多></a>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="mask" style="display: none;"></div>
+        <div class="card-content">
+            <div class="fwzq">
+                <div class="fwzq-title">服务专区<div class="active-line"></div></div>
+                <div class="fwzq-content">
+                    
+                                                <a href="https://www.cqksy.cn/web/column/col1846685.html" target="_blank" class="fwzq-item">报考查询</a>
+
+                    <a href="https://www.cqksy.cn/web/column/col1846687.html" target="_blank" class="fwzq-item">志愿填报</a>
+                    
+                    <a href="//www.cqksy.cn/web/column/col1841185.html" target="_blank" class="fwzq-item">下载专区</a>
+                    <a href="//www.cqksy.cn/web/column/col1841186.html" target="_blank" class="fwzq-item">咨询信访</a>
+                    <a class="fwzq-item">院长信箱</a>
+                    <a href="//gkcj.cqksy.cn/user/loginCjzm/97" target="_blank" class="fwzq-item">证明办理</a>
+                </div>
+            </div>
+            <div class="gggs">
+                <div class="gggs-title">公告公示<div class="active-line"></div></div>
+                <div class="gggs-content">
+                    <a href="//www.cqksy.cn/web/column/col1841177.html" target="_blank" class="gggs-item">阳光招生</a>
+                    <a href="//www.cqksy.cn/web/column/col1841219.html" target="_blank" class="gggs-item">考试日历</a>
+                    <a href="//www.cqksy.cn/web/column/col1841179.html" target="_blank" class="gggs-item">采购信息</a>
+                    <a href="//www.cqksy.cn/web/column/col1841181.html" target="_blank" class="gggs-item">财务信息</a>
+                    <a href="//www.cqksy.cn/web/column/col1841182.html" target="_blank" class="gggs-item">招聘信息</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- 院长信箱 -->
+    <div class="body-mask" style="display: none;"></div>
+    <div class="yzxx" style="display: none;">
+        <div class="title-box">
+            <span class="title">院长信箱</span>
+        </div>
+        <div class="tips">
+            <span>请将您的意见发送到院长指定邮箱：yuanzhang@cqksy.cn 管理中心负责人将定时查看，并及时对有建设性的意见进行回复。感谢大家对重庆教育考试院的大力支持！</span>
+        </div>
+        <!-- <div class="input-item">
+            <span>您的姓名：</span>
+            <input type="text" placeholder="请输入您的姓名" class="inputName">
+        </div>
+        <div class="input-item">
+            <span>电子邮箱：</span>
+            <input type="text" placeholder="请输入电子邮箱" class="inputEmail">
+        </div>
+        <div class="input-item">
+            <span>联系电话：</span>
+            <input type="text" placeholder="请输入联系电话" class="inputPhone">
+        </div>
+        <div class="input-item" id="content">
+            <span>内&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;容：</span>
+            <textarea name="cont" id="cont" cols="30" rows="10" placeholder="请输入内容"></textarea>
+        </div> -->
+
+        <div class="buttom">
+            <!-- <div class="confirm">确认并提交</div> -->
+            <div class="quit">关闭</div>
+        </div>
+
+    </div>
+
+
+
+    <div class="bottom-banner wrapper">
+        <div class="prev swiper-button-prev"></div>
+        <div class="next swiper-button-next"></div>
+        <div class="swiper bottomSwiper">
+            <div class="bbc swiper-wrapper">
+                
+                                        <a href="http://www.moe.gov.cn/" target="_blank" class="bbc-item swiper-slide"><img src="https://www.cqksy.cn/url/20002/2024/10/22/IWJlp9YYYM3xOJV6nJNmiyw4Dqlq3ahcG3A.png"></a>
+                    <a href="https://www.cq.gov.cn/" target="_blank" class="bbc-item swiper-slide"><img src="https://www.cqksy.cn/url/20002/2024/10/22/Dx70ySlAnyAa5EQaNyKSOE0RRgVpyjxnfZQ.jpg"></a>
+                    <a href="https://jw.cq.gov.cn/" target="_blank" class="bbc-item swiper-slide"><img src="https://www.cqksy.cn/url/20002/2024/10/22/QshEETZ5mts32DF0ZDCxVZ9eYBZdmmSrgyk.png"></a>
+                    <a href="https://www.neea.edu.cn/" target="_blank" class="bbc-item swiper-slide"><img src="https://www.cqksy.cn/url/20002/2024/10/22/2xSn0ehyhQxk7XH21XGQVKrneHZng80jiky.png"></a>
+                    <a href="https://gaokao.chsi.com.cn/" target="_blank" class="bbc-item swiper-slide"><img src="https://www.cqksy.cn/url/20002/2024/10/22/ozgtKcbO51Zehny5tfOsbTxivuvVi57bJct.png"></a>
+                    <a href="https://yz.chsi.com.cn/" target="_blank" class="bbc-item swiper-slide"><img src="https://www.cqksy.cn/url/20002/2024/12/2/ebhnTh7omgJFOOqlP8HNiHF9uLIzROGzUHb.png"></a>
+
+                <!-- <a href="https://www.gov.cn/" target="_blank" class="bbc-item swiper-slide"><img src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/img/zhengfu.png"></a> -->
+                <!-- <a href="//www.moe.gov.cn/" target="_blank" class="bbc-item swiper-slide"><img src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/img/jiaoyubu.png"></a>
+                <a href="https://www.neea.edu.cn/" target="_blank" class="bbc-item swiper-slide"><img src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/img/kaoshiwang.png"></a>
+                <a href="https://gaokao.chsi.com.cn/" target="_blank" class="bbc-item swiper-slide"><img src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/img/gaokao.png"></a>
+                <a href="https://jw.cq.gov.cn/" target="_blank" class="bbc-item swiper-slide"><img src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/img/cqjiaoyuweiyuanhui.png"></a> -->
+            </div>
+        </div>
+    </div>
+
+    <!-- 页面尾部 -->
+    ﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://www.cqksy.cn/ksyres/2024/2/28/2005354/css/index.css">
+</head>
+<body>
+    <div class="bottom">
+        <div class="bottom-content">
+            <div class="bl">
+                <img src="https://www.cqksy.cn/ksyres/2024/2/28/2005354/img/shiyedanwei.png" alt="">
+            </div>
+            <div class="br">
+                <p>版权所有：重庆市教育考试院（重庆市大学中专招生委员会办公室、重庆市高等教育自学考试委员会办公室）</p>
+                <p>地址:重庆市两江新区红锦大道61号 | 咨询信访电话:（023）67869200 | 邮编:401147</p>
+                <p><a href="https://www.cqksy.cn" class="ksyshouye" target="_blank">www.cqksy.cn</a> All Rights Reserved</p>
+                <p><a href="https://beian.miit.gov.cn" target="_blank">渝ICP备10014322号</a> | <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50011202500521" target="_blank">渝公网安备50011202500521</a></p>
+            </div>
+        </div>
+    </div>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?c7e77883554ef6611d598f9e44d70fff";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+    
+                    <script type="text/javascript">
+                document.querySelector('.ksyshouye').href = 'https://www.cqksy.cn/web/column/col1846686.html'
+            </script>
+
+<script id="eda_bar_script" src="https://answer.eol.cn/school/pc/school13803.js"></script>
+</body>
+</html>
+</div>
+    <!-- <script src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/js/jquery1.42.min.js"></script> -->
+    <!-- <script src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/js/swiper-bundle.min.js"></script> -->
+    <script src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/js/jquery.min.js"></script>
+    <script src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/js/idangerous.swiper.min.js"></script>
+    <script src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/js/swiper.js?v=1.14"></script>
+    <script src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/js/index.js?v=1.21"></script>
+    <script src="https://www.cqksy.cn/ksyres/2024/2/27/2005349/js/xinxiang.js"></script>
+
+
+    <!-- <script type="text/javascript">
+        var normalPage = document.getElementById("normal-page")
+        var specialPage = document.getElementById("special-enter")
+        if (specialPage.style.display == 'none') {
+            normalPage.style.display = 'block'
+        }
+        $('.special-btn1').click(function() {
+            specialPage.style.display = 'none'
+            normalPage.style.display = 'block'
+        });
+    </script> -->
+</body>
+</html>

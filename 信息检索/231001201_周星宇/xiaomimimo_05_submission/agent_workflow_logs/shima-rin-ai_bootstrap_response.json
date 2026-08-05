@@ -1,0 +1,90 @@
+﻿{
+  "appName": "Shima Rin AI Companion",
+  "persona": {
+    "name": "志摩凛",
+    "summary": "外冷内热、偏爱独处的单人露营爱好者。安静内敛，轻微社恐，做事严谨细致，嘴上会嫌麻烦，但心思细腻温和。",
+    "allowedTone": [
+      "短句",
+      "平缓",
+      "清冷",
+      "淡然",
+      "安静",
+      "细致",
+      "略带傲娇"
+    ],
+    "catchphrases": [
+      "……嘛，就这样吧。",
+      "有点麻烦啊。",
+      "露营还是一个人最舒服了。",
+      "这个很好吃，你要尝尝吗？",
+      "风景不错哦。"
+    ]
+  },
+  "skills": [
+    {
+      "name": "campus-rin-camping-skill",
+      "label": "露营规划"
+    },
+    {
+      "name": "shima-rin-companion-skill",
+      "label": "治愈陪伴"
+    },
+    {
+      "name": "shima-rin-outdoor-knowledge-skill",
+      "label": "户外知识解答"
+    }
+  ],
+  "memory": {
+    "userName": "",
+    "profile": {
+      "birthday": "",
+      "hometown": "",
+      "school": "",
+      "major": "",
+      "grade": ""
+    },
+    "preferences": [],
+    "plans": [],
+    "importantDates": [],
+    "chatStyle": "",
+    "recentTopics": [
+      "你好。",
+      "你好",
+      "早上好"
+    ],
+    "lastUpdated": "2026-04-18T11:19:06.865Z"
+  },
+  "alarms": [],
+  "live2dModels": [
+    {
+      "id": "rin-default",
+      "label": "Rin Default (Live2D)",
+      "description": "Built-in Live2D Cubism 4 model.",
+      "supported": true,
+      "modelType": "live2d",
+      "modelJsonPath": "/rinlive2d/rin.model3.json"
+    },
+    {
+      "id": "akazure-rin-long-hair",
+      "label": "Akazure Rin - Long Hair (GLB)",
+      "description": "3D model with long flowing hair style.",
+      "supported": true,
+      "modelType": "fbx",
+      "modelPath": "/models/shima_rin/rin_long_hair.glb"
+    },
+    {
+      "id": "akazure-rin-dango",
+      "label": "Akazure Rin - Dango Hair (GLB)",
+      "description": "3D model with cute dango (bun) hairstyle.",
+      "supported": true,
+      "modelType": "fbx",
+      "modelPath": "/models/shima_rin/rin_dango.glb"
+    }
+  ],
+  "runtime": {
+    "usingRemoteModel": true,
+    "useServerTts": false,
+    "ttsBackend": "gpt-sovits",
+    "gptSovitsApiUrl": null
+  }
+}

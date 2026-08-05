@@ -1,0 +1,15 @@
+{
+  "name": "shima-rin-ai",
+  "version": "0.1.0",
+  "description": "Portable AI companion prototype with a calm winter-camping persona.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node --preserve-symlinks --preserve-symlinks-main server.js",
+    "dev": "node --preserve-symlinks --preserve-symlinks-main server.js",
+    "test": "node scripts/run-tests.js"
+  },
+  "dependencies": {
+    "three": "^0.124.0"
+  }
+}

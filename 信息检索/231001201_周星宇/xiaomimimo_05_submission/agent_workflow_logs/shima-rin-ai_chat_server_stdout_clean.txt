@@ -1,0 +1,3 @@
+[server] Listening on http://localhost:3000
+[server] Remote model configured: true
+[server] OpenVoice enabled: false

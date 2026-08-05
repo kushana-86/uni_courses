@@ -1,0 +1,26 @@
+﻿[
+  {
+    "id": "rin-default",
+    "label": "Rin Default (Live2D)",
+    "description": "Built-in Live2D Cubism 4 model.",
+    "supported": true,
+    "modelType": "live2d",
+    "modelJsonPath": "/rinlive2d/rin.model3.json"
+  },
+  {
+    "id": "akazure-rin-long-hair",
+    "label": "Akazure Rin - Long Hair (GLB)",
+    "description": "3D model with long flowing hair style.",
+    "supported": true,
+    "modelType": "fbx",
+    "modelPath": "/models/shima_rin/rin_long_hair.glb"
+  },
+  {
+    "id": "akazure-rin-dango",
+    "label": "Akazure Rin - Dango Hair (GLB)",
+    "description": "3D model with cute dango (bun) hairstyle.",
+    "supported": true,
+    "modelType": "fbx",
+    "modelPath": "/models/shima_rin/rin_dango.glb"
+  }
+]
